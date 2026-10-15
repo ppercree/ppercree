@@ -24,6 +24,7 @@
 </p>
 
 <sub>If you contact me, please send a message why, DMs are open.</sub>
+
 -
 
 I mainly code for fun because coding for money is dead.
