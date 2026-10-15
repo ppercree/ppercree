@@ -10,7 +10,18 @@
 
 -
 
-![Discord](DiscordIcon.png] ![YouTube](YoutubeIcon.png)(https://youtube.com/@ppercree) ![Steam](SteamIcon.png)(https://steamcommunity.com/profiles/76561199086469010/)
+
+<p align="center">
+  <a href="https://youtube.com/@ppercree">
+    <img src="YoutubeIcon.png" width="40">
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199086469010/">
+    <img src="SteamIcon.png" width="40">
+  </a>
+  <a href="https://discord.com/users/1227585851219902464">
+    <img src="DiscordIcon.png" width="40">
+  </a>
+</p>
 
 -
 
